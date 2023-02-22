@@ -1,4 +1,13 @@
-# DeepLearning-4th-project
+# DeepLearning 4th project
+## 차량 객체 탐지에 대한 고찰 - YOLOv5와 Detectron2를 위주로
+### 상세 내용
+- 실제 고속도로 CCTV 영상 캡쳐본을 라벨링, 증강하여 두 모델에 학습시킨 후 정확도가 높은 모델을 선정했다. 모델의 정확도를 높여 차량의 속도나 밀집도를 관측하여 사고 방지에 활용하거나, 모델을 개량하여 사람의 머릿수를 측정하여 밀집도를 인식함으로써 위험상황을 예방하는 모델로 활용 방안을 제시했다.
+### 담당 역할
+- 주제 선정
+- API를 활용해 실제 고속도로 CCTV 데이터 수집 및 roboflow 라벨링
+- YOLOv5 모델 학습
+- PPT 제작 및 발표
+
 ![a (7)](https://user-images.githubusercontent.com/120777172/211731918-adbcd16e-6ddc-4ab3-9e73-3cde60cdcfda.jpg)
 ![a (9)](https://user-images.githubusercontent.com/120777172/211731944-2c54f55d-b9b4-4885-aa3b-d09d9ec6d34b.jpg)
 ![a (10)](https://user-images.githubusercontent.com/120777172/211731954-c20de9e7-4b9c-4774-bce7-345066116d79.jpg)
